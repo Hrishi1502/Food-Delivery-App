@@ -1,16 +1,11 @@
-# ui
+# Dart Flutter Chowk Task - 1
+## Details:
+**Name:** Hrishikesh Masatkar
+**College:** GHRCE
+**Year:** 3th
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Details:
+**Description:** I have developed a Food Delivery App landing page clone. 
+**Tech Stack:** Flutter
+**Figma Link:** (Figma UI Link)[https://www.figma.com/file/eSTSdSKkpzCHAY7IMJtVO5/Untitled?type=design&node-id=0%3A1&mode=design&t=xiPhrG78sdPog2P7-1]
+**GitHub Repo Link:** (Project Repo)[/add your project repo link here, the link should be clickable]
